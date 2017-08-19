@@ -1,5 +1,10 @@
 <header>
+
 	<h3>THIS IS THE HEADER</h3>
+
+	<h1>THIS IS THE HEADER</h1>
+	<h3>My Edit</h3>
+
 	@if(session("login") == true)
 		<div>Hi, you are logged in. <a href='/logout'>LOGOUT</a></div>
 	@else
