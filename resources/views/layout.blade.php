@@ -18,5 +18,5 @@
 </div>
 
 <footer>
-	THIS IS THE FOOTER
+	THIS IS THE FOOTER kd;ka;dka;lka;lkd;ak;ak;ak
 </footer>
