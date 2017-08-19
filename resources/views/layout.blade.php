@@ -1,5 +1,5 @@
 <header>
-	THIS IS THE HEADER
+	<h3>THIS IS THE HEADER</h3>
 	@if(session("login") == true)
 		<div>Hi, you are logged in. <a href='/logout'>LOGOUT</a></div>
 	@else
