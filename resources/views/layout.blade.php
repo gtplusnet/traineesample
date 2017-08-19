@@ -18,6 +18,9 @@
 </div>
 
 <footer>
+
 kd;ka;dka;lka;lkd;ak;ak;ak
-	THIS IS THE FOOTER 
+
+	<h1>THIS IS THE FOOTER</h1>
+
 </footer>
